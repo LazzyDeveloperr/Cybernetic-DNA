@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic DNA Double Helix",
+  "description": "A visually stunning, realistic 3D DNA double helix built with Three.js and React Three Fiber, featuring PBR materials, bloom, depth of field, and floating particles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
